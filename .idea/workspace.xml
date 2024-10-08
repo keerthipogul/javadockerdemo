@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0abe8135-c22d-4e18-9ce3-21f7e90aacbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/neoteric/learning/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/neoteric/learning/AppTest.java" afterDir="false" />
+    <list default="true" id="0abe8135-c22d-4e18-9ce3-21f7e90aacbd" name="Changes" comment="youuuu">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/neoteric/learning/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/neoteric/learning/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,11 +64,24 @@
       <option name="presentableId" value="Default" />
       <updated>1727983132090</updated>
       <workItem from="1727983133074" duration="557000" />
-      <workItem from="1728370182781" duration="793000" />
+      <workItem from="1728370182781" duration="3341000" />
     </task>
+    <task id="LOCAL-00001" summary="youuuu">
+      <option name="closed" value="true" />
+      <created>1728371287315</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728371287315</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="youuuu" />
+    <option name="LAST_COMMIT_MESSAGE" value="youuuu" />
   </component>
 </project>
